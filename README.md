@@ -13,11 +13,11 @@
 
 <h3>Framework && Library && Tools</h3>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/Golang-282C34?logo=goland&logoColor=61DAFB" alt="Golang logo" title="Golang" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Mysql-282C34?logo=mysql" alt="Mysql logo" title="Mysql" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=4FC08D" alt="Python logo" title="Python" height="25" /></span>
+<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker" alt="Docker logo" title="Docker" height="25" /></span>
 &nbsp;
 
 <br>
@@ -34,6 +34,7 @@
 </div>
 
 <br>
+
 <h2 align="center">👽 Contact With Me 👽</h2>
 <br>
 
