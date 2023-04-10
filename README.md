@@ -4,7 +4,7 @@
 
 <h3>Languages Programming</h3>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/Golang-282C34?logo=goland" alt="Golang logo" title="Golang" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Golang-282C34?logo=goland&logoColor=61DAFB" alt="Golang logo" title="Golang" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
@@ -18,6 +18,12 @@
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker" alt="Docker logo" title="Docker" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Redis-282C34?logo=redis" alt="Docker logo" title="Docker" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/RabbitMQ-282C34?logo=rabbitmq" alt="Docker logo" title="Docker" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Github-282C34?logo=github" alt="Docker logo" title="Docker" height="25" /></span>
 &nbsp;
 
 <br>
