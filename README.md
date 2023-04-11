@@ -29,7 +29,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/RabbitMQ-282C34?logo=rabbitmq" alt="Docker logo" title="RabbitMQ" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Git-282C34?logo=git" alt="Docker logo" title="Git" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Git-282C34?logo=elasticsearch&logoColor=F7DF1E" alt="ElasticSearch logo" title="Elastic" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Git-282C34?logo=git" alt="Git logo" title="Git" height="25" /></span>
 &nbsp;
 
 <br>
