@@ -11,19 +11,25 @@
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
 
-<h3>Framework && Library && Tools</h3>
+<h3>Databases</h3>
 <!-- https://simpleicons.org/ -->
 <span><img src="https://img.shields.io/badge/Mysql-282C34?logo=mysql" alt="Mysql logo" title="Mysql" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Oracle-282C34?logo=oracle&logoColor=FF0000" alt="Oracle logo" title="Oracle" height="25" /></span>
+&nbsp;
+
+<h3>Tools</h3>
+<span><img src="https://img.shields.io/badge/Linux-282C34?logo=linux" alt="Linux logo" title="Docker" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker" alt="Docker logo" title="Docker" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Redis-282C34?logo=redis" alt="Docker logo" title="Docker" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Redis-282C34?logo=redis" alt="Docker logo" title="Redis" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/RabbitMQ-282C34?logo=rabbitmq" alt="Docker logo" title="Docker" height="25" /></span>
+<span><img src="https://img.shields.io/badge/RabbitMQ-282C34?logo=rabbitmq" alt="Docker logo" title="RabbitMQ" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Github-282C34?logo=github" alt="Docker logo" title="Docker" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Git-282C34?logo=git" alt="Docker logo" title="Git" height="25" /></span>
 &nbsp;
 
 <br>
